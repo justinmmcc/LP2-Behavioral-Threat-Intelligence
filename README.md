@@ -27,15 +27,10 @@ This project explores how **cognitive friction**—introduced via psychological 
 * Identified dominant botnet signatures (Echo Swarm, SSH brute force)
 * Validated hypothesis: **Cognitive friction filters human actors from automated systems**
 
-## Live Project Demo
-
-👉 [View Interactive HTML Report](#)
-
 ## Full Report
 
-See `Project_Report.pdf` for full experimental documentation.
+See `ProjectLostPiglet2_OperationsReport.pdf` for full experimental documentation.
 
 ## Author
 
 Justin McCormick
-Cybersecurity Analytics & Operations
