@@ -1,4 +1,4 @@
-# Project LostPiglet 2: Behavioral Threat Intelligence Honeypot
+# Project LostPiglet 2: Behavioral Threat Intelligence 
 
 ## Overview
 
